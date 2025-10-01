@@ -6,5 +6,7 @@
 #### No: 14
 
 ## 1. Percobaan Add a button
-![Screenshot hello_world](images/01.gif)
+![Screenshot flutter_app](images/01.gif)
 
+## 2. Percobaan Make the app prettier
+![Screenshot flutter_app](images/02.gif)
