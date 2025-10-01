@@ -14,4 +14,5 @@
 ## 3. Percobaan Add functionality
 ![Screenshot flutter_app](images/03.gif)
 
-
+## 4. Percobaan Add navigation rail
+![Screenshot flutter_app](images/04.gif)
