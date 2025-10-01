@@ -10,3 +10,8 @@
 
 ## 2. Percobaan Make the app prettier
 ![Screenshot flutter_app](images/02.gif)
+
+## 3. Percobaan Add functionality
+![Screenshot flutter_app](images/03.gif)
+
+
