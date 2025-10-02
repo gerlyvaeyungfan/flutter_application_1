@@ -19,3 +19,6 @@
 
 ## 4. Percobaan Add a new page
 ![Screenshot flutter_app](images/05.gif)
+
+## 5. Percobaan Menambahkan ListView untuk Menampilkan Daftar Data di Flutter
+![Screenshot flutter_app](images/06.gif)
