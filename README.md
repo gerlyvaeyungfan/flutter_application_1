@@ -16,3 +16,6 @@
 
 ## 4. Percobaan Add navigation rail
 ![Screenshot flutter_app](images/04.gif)
+
+## 4. Percobaan Add a new page
+![Screenshot flutter_app](images/05.gif)
